@@ -9,9 +9,7 @@ EvoMemory_Planning_Mode.md: Expanded Planning Mode for generating adaptable plan
 
 Setup Instructions
 
-Clone the Repository:git clone https://github.com/YOUR_USERNAME/evomemory.git
-cd evomemory
-
+Copy contents of EvoMemory_Planning_Mode.md and EvoMemory_Structure.md into your User Rules within Cursor or a Project Rules file depending on your preference.  
 
 Explore Files:
 Read EvoMemory_Structure.md for the full system overview.
